@@ -10,6 +10,6 @@ This is a cheat sheet with various cracks for certain programs. I will try to ma
 ### If you have any suggestions or claims, please write to the contacts written in the bio
 
 ## Программы/Programs
--
+- [WinRAR](https://github.com/oneekov/CrackCheatSheet/tree/main/Programs/WinRAR)
 -
 -
